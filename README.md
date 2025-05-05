@@ -1,152 +1,170 @@
 <div align="center">
   
-```
-██   ██  ██████  ██      ██    ██ ██████  ██    ██ ████████ ███████ ███████ 
-██   ██ ██    ██ ██       ██  ██  ██   ██  ██  ██     ██    ██      ██      
-███████ ██    ██ ██        ████   ██████    ████      ██    █████   ███████ 
-██   ██ ██    ██ ██         ██    ██   ██    ██       ██    ██           ██ 
-██   ██  ██████  ███████    ██    ██████     ██       ██    ███████ ███████
-```
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=4834d4&height=300&section=header&text=YOUR%20NAME&fontSize=90&animation=fadeIn&fontAlignY=35&desc=✨%20Full-Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Code%20Artist%20✨&descAlignY=55&fontColor=ffffff&descColor=ffffff)](https://github.com/YourUsername)
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=300&section=header&text=ADE%20PRATAMA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Coding%20with%20Passion%20|%20Creating%20with%20Purpose&descAlignY=55&fontColor=ffffff&descColor=ffffff)](https://github.com/HolyBytes)
-
-![Copyright](https://img.shields.io/badge/©%20Copyright%202025-ADE%20PRATAMA-red?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=HolyBytes&color=blueviolet&style=for-the-badge)
-[![GitHub](https://img.shields.io/badge/GitHub-HolyBytes-181717?style=for-the-badge&logo=github)](https://github.com/HolyBytes)
-
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=4834d4&style=for-the-badge) 
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?logo=GitHub&style=for-the-badge)](https://github.com/YourUsername)
+[![GitHub Stars](https://img.shields.io/github/stars/YourUsername?logo=github&style=for-the-badge)](https://github.com/YourUsername)
 </div>
 
-## 📌 Tentang Saya
-<img align="right" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br>
 
-Halo! Saya **Ade Pratama**, seorang Full-Stack Developer yang passionate dengan teknologi. 
+## 🚀 **Tentang Saya** 
 
-> 🚀 Selalu berusaha mengubah ide menjadi kode dan kode menjadi solusi
+<img align="right" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-Saya percaya bahwa teknologi bisa membuat hidup lebih baik kalau digunakan dengan tepat. Setiap hari saya berusaha buat terus belajar dan mengembangkan skill. Saya suka banget ngoprek berbagai framework dan tools baru, dan nggak takut buat coba hal-hal baru.
+### Halo Dunia! 👋
 
-- 🏢 Sekarang lagi fokus di pengembangan web dan aplikasi
-- 🎯 Visi: Menciptakan solusi teknologi yang bermanfaat untuk banyak orang
-- 💡 Hobi eksplorasi teknologi baru dan berbagi pengetahuan
-- 📫 Hubungi saya: **hello@adepratama.dev**
+Saya **[Your Name]**, seorang Full-Stack Developer yang bersemangat dalam dunia teknologi.
 
-## 💻 Keahlian & Teknologi
+- 💻 Mengembangkan solusi web yang elegan dan fungsional
+- 🌱 Terus mengasah keterampilan dengan teknologi terbaru
+- 🔭 Mengeksplorasi AI, Cloud Computing, dan DevOps
+- 🎯 Bercita-cita membuat solusi teknologi yang berdampak positif
+- ✨ Senang berkolaborasi dalam proyek open source yang menarik 
+- 🎮 Menikmati coding sambil mendengarkan musik
+- 📚 Selalu belajar sesuatu yang baru setiap hari
+
+<br>
+
+## 🛠️ **Keahlian & Teknologi**
 
 <div align="center">
-
-### Primary Skills
-
-![Laravel 12](https://img.shields.io/badge/Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-### Tools & Lainnya
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <h3>💻 Bahasa Pemrograman</h3>
+        <p>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        </p>
+      </td>
+      <td align="center">
+        <h3>⚡ Framework & Library</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🗃️ Database</h3>
+        <p>
+          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        </p>
+      </td>
+      <td align="center">
+        <h3>🔧 Tools & Platform</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br>
 
-## 🎮 Game Time! 
+
+
+## 🌟 **Featured Projects**
 
 <div align="center">
-  <h3>🕹️ Pacman</h3>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🌐 Personal Portfolio</h3>
+        <a href="#">
+          <img src="https://dummyimage.com/400x200/4834d4/ffffff&text=Portfolio+Website" alt="Portfolio Project" />
+        </a>
+        <p>Elegant portfolio website built with React and TailwindCSS showcasing my skills and projects</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>📱 E-Commerce Platform</h3>
+        <a href="#">
+          <img src="https://dummyimage.com/400x200/4834d4/ffffff&text=E-Commerce+App" alt="E-Commerce Project" />
+        </a>
+        <p>Full-scale online shopping platform developed with Laravel, Vue.js and MySQL</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🤖 Task Management System</h3>
+        <a href="#">
+          <img src="https://dummyimage.com/400x200/4834d4/ffffff&text=Task+Management" alt="Task Management System" />
+        </a>
+        <p>Comprehensive task management app with team collaboration features</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>📊 Data Analytics Dashboard</h3>
+        <a href="#">
+          <img src="https://dummyimage.com/400x200/4834d4/ffffff&text=Analytics+Dashboard" alt="Analytics Dashboard" />
+        </a>
+        <p>Interactive dashboard for visualizing and analyzing business metrics</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📱 **Hubungi Saya**
+
+<div align="center">
   
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Pac-Man Animation" width="100%">
+| 📧 Email | 📱 WhatsApp | 🌐 Website | 📷 Instagram |
+|:--------:|:----------:|:----------:|:------------:|
+| [youremail@example.com](mailto:youremail@example.com) | [Chat dengan Saya](https://wa.me/yourphone) | [yourwebsite.com](https://yourwebsite.com) | [Instagram](https://instagram.com/yourusername) |
 
-  <h3>🐍 Snake Game</h3>
+| 💼 LinkedIn | 🎮 Discord | 🐦 Twitter | 🎬 TikTok |
+|:-----------:|:----------:|:----------:|:---------:|
+| [Your Name](https://linkedin.com/in/yourusername) | [Discord](https://discord.com/users/yourusername) | [Twitter](https://twitter.com/yourusername) | [TikTok](https://tiktok.com/@yourusername) |
+
+</div>
+
+<br>
+
+## 💭 **Quote of the Day**
+
+<div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <a href="https://github.com/HolyBytes">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HolyBytes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HolyBytes&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" alt="Most Used Languages"/>
-  </a>
+  
+### 🌐 **Kunjungi juga:**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://blog.yourwebsite.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourusername)
+
+<hr>
+
+<p><strong>📝 GITHUB PROFILE TEMPLATE</strong></p>
+<p>Template ini tersedia untuk digunakan oleh siapa saja. Caranya:</p>
+<ol>
+  <li>Buat repository baru dengan nama yang sama dengan username GitHub Anda</li>
+  <li>Copy-paste kode template ini ke file README.md</li>
+  <li>Ganti semua placeholder seperti [Your Name], YourUsername, dan URL dengan informasi Anda</li>
+  <li>Kustomisasi bagian lain sesuai kebutuhan Anda</li>
+</ol>
+<p>Ini hanya tampilan dasar yang siap digunakan dan dikustomisasi untuk membuat profil GitHub Anda lebih menarik!</p>
+
+[![Copyright](https://img.shields.io/badge/%C2%A9%202025-Your%20Name-4834d4?style=for-the-badge)](https://github.com/YourUsername)
+
 </div>
-
-<div align="center">
-  <img width="750em" src="https://github-profile-trophy.vercel.app/?username=HolyBytes&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=HolyBytes&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🚀 Proyek Populer
-
-<div align="center">
-  <a href="https://github.com/HolyBytes/laravel-ecommerce">
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HolyBytes&repo=laravel-ecommerce&theme=radical&border_radius=10"/>
-  </a>
-  <a href="https://github.com/HolyBytes/react-dashboard">
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HolyBytes&repo=react-dashboard&theme=radical&border_radius=10"/>
-  </a>
-  <a href="https://github.com/HolyBytes/python-ai">
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HolyBytes&repo=python-ai&theme=radical&border_radius=10"/>
-  </a>
-  <a href="https://github.com/HolyBytes/wp-plugin-collection">
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HolyBytes&repo=wp-plugin-collection&theme=radical&border_radius=10"/>
-  </a>
-</div>
-
-<br/>
-
-## 🔗 Hubungi Saya
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adepratama" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/HolyBytes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ade.pratama" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/adepratama" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:hello@adepratama.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://adepratama.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=200&section=footer&text=Terima%20Kasih%20Sudah%20Berkunjung!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
-</div>
-
-<!--
-  © 2025 ADE PRATAMA. ALL RIGHTS RESERVED.
-  https://github.com/HolyBytes
--->
